@@ -39,4 +39,8 @@
         android:name="android.hardware.camera2"
         android:required="true" />
 
+    <uses-feature
+        android:name="android.hardware.Camera"
+        android:required="true"></uses-feature>
+
 </manifest>
